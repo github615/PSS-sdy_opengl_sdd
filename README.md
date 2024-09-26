@@ -8,7 +8,9 @@ PSS-sdy_opengl_sdd是一个基于商用工具SCADE Display（OpenGL）的二次�
 该工具的编译、运行依赖于SCADE Display R16版，因此其开发者和使用者的计算机环境必需安装有SCADE Display R16，并具有相应的许可证。
 
 该工具包含以下两个可执行文件：
+
 . sdy_r16_opengl_sdd_xml.exe
+
 . sdyddword.exe
 
 sdy_r16_opengl_sdd_xml.exe解析SCADE Display软件模型文件，生成SDD的xml文件。
@@ -27,7 +29,9 @@ The tools built in this project can be used to generate software design document
 The compilation and operation of the tool depends on SCADE Display R16, so its developers and users must have SCADE Display R16 installed and have the appropriate license in their computer environment.
 
 The tool contains the following two executables:
+
 . sdy_r16_opengl_sdd_xml.exe
+
 . sdyddword.exe
 
 sdy_r16_opengl_sdd_xml.exe parse the SCADE Display software model file and generate an xml file for the SDD.
