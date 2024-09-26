@@ -1,0 +1,90 @@
+﻿生成启动时间为 2017/4/12 23:28:36。
+     1>项目“E:\aside_sdy_opengl_r16\aside_sdy_opengl\aside_sdy_opengl.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Debug\aside_sdy_opengl.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Debug\aside_sdy_opengl.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IE:\aside_sdy_opengl_r16\src /IE:\aside_sdy_opengl_r16\src\parsifal_1.1.0 /I"E:\aside_sdy_opengl_r16\src\libxml2-2.7.8.win32\include" /I"E:\aside_sdy_opengl_r16\src\iconv-1.9.2.win32\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _CRT_SECURE_NO_DEPRECATE /D HAS_STRICMP /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt ..\src\free_memory.c ..\src\gen_sdy_config_dd.c ..\src\main.c ..\src\convert_xml_code.c ..\src\gen_sdy_object_dd.c ..\src\gen_sdy_source_dd.c ..\src\parse_color_table.c ..\src\parse_font_table.c ..\src\parse_line_stipple_table.c ..\src\parse_line_width_table.c ..\src\parse_object_property.c ..\src\parse_sdy_project.c ..\src\parse_sdy_source.c ..\src\parse_texture_table.c ..\src\parse_trace_file.c ..\src\parsifal_1.1.0\bistream.c ..\src\parsifal_1.1.0\dtdvalid.c ..\src\parsifal_1.1.0\encoding.c ..\src\parsifal_1.1.0\parsifal.c ..\src\parsifal_1.1.0\xmlhash.c ..\src\parsifal_1.1.0\xmlpool.c ..\src\parsifal_1.1.0\xmlsbuf.c ..\src\parsifal_1.1.0\xmlvect.c ..\src\process_file_and_dir.c ..\src\process_sdy_code.c ..\src\scade_display_dir.c ..\src\inherit_trace_comment.c ..\src\utilities.c
+         utilities.c
+         inherit_trace_comment.c
+         scade_display_dir.c
+         process_sdy_code.c
+         process_file_and_dir.c
+         xmlvect.c
+         xmlsbuf.c
+         xmlpool.c
+         xmlhash.c
+         parsifal.c
+     1>e:\aside_sdy_opengl_r16\src\parsifal_1.1.0\parsifal.c(377): warning C4101: “e”: 未引用的局部变量
+     1>e:\aside_sdy_opengl_r16\src\parsifal_1.1.0\parsifal.c(1586): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : 参见“stricmp”的声明
+     1>e:\aside_sdy_opengl_r16\src\parsifal_1.1.0\parsifal.c(1652): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : 参见“stricmp”的声明
+     1>e:\aside_sdy_opengl_r16\src\parsifal_1.1.0\parsifal.c(1654): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : 参见“stricmp”的声明
+     1>e:\aside_sdy_opengl_r16\src\parsifal_1.1.0\parsifal.c(1656): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : 参见“stricmp”的声明
+     1>e:\aside_sdy_opengl_r16\src\parsifal_1.1.0\parsifal.c(1680): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : 参见“stricmp”的声明
+         encoding.c
+         dtdvalid.c
+         bistream.c
+         parse_trace_file.c
+         parse_texture_table.c
+         parse_sdy_source.c
+         parse_sdy_project.c
+         parse_object_property.c
+         parse_line_width_table.c
+         parse_line_stipple_table.c
+         正在生成代码...
+         正在编译...
+         parse_font_table.c
+         parse_color_table.c
+         gen_sdy_source_dd.c
+         gen_sdy_object_dd.c
+         convert_xml_code.c
+         main.c
+         gen_sdy_config_dd.c
+         free_memory.c
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\aside_sdy_opengl_r16\Debug\\aside_sdy_opengl.exe" /INCREMENTAL /NOLOGO /LIBPATH:"E:\aside_sdy_opengl_r16\src\libxml2-2.7.8.win32\lib" /LIBPATH:"E:\aside_sdy_opengl_r16\src\iconv-1.9.2.win32\lib" libxml2.lib iconv.lib Shlwapi.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\aside_sdy_opengl.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\aside_sdy_opengl_r16\Debug\aside_sdy_opengl.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\aside_sdy_opengl_r16\Debug\aside_sdy_opengl.lib" /MACHINE:X86 Debug\free_memory.obj
+         Debug\gen_sdy_config_dd.obj
+         Debug\main.obj
+         Debug\convert_xml_code.obj
+         Debug\gen_sdy_object_dd.obj
+         Debug\gen_sdy_source_dd.obj
+         Debug\parse_color_table.obj
+         Debug\parse_font_table.obj
+         Debug\parse_line_stipple_table.obj
+         Debug\parse_line_width_table.obj
+         Debug\parse_object_property.obj
+         Debug\parse_sdy_project.obj
+         Debug\parse_sdy_source.obj
+         Debug\parse_texture_table.obj
+         Debug\parse_trace_file.obj
+         Debug\bistream.obj
+         Debug\dtdvalid.obj
+         Debug\encoding.obj
+         Debug\parsifal.obj
+         Debug\xmlhash.obj
+         Debug\xmlpool.obj
+         Debug\xmlsbuf.obj
+         Debug\xmlvect.obj
+         Debug\process_file_and_dir.obj
+         Debug\process_sdy_code.obj
+         Debug\scade_display_dir.obj
+         Debug\inherit_trace_comment.obj
+         Debug\utilities.obj
+         aside_sdy_opengl.vcxproj -> E:\aside_sdy_opengl_r16\Debug\aside_sdy_opengl.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"E:\aside_sdy_opengl_r16\Debug\aside_sdy_opengl.exe.manifest" /manifest Debug\aside_sdy_opengl.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\aside_sdy_opengl.unsuccessfulbuild”。
+         正在对“Debug\aside_sdy_opengl.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\aside_sdy_opengl_r16\aside_sdy_opengl\aside_sdy_opengl.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.02

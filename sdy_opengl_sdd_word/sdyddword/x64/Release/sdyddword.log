@@ -1,0 +1,48 @@
+﻿生成启动时间为 2018/12/11 11:38:00。
+     1>项目“E:\sdy_opengl_sdd_doc_2018\sdyddword\sdyddword.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“E:\sdy_opengl_sdd_doc_2018\x64\Release\”。
+       InitializeBuildStatus:
+         正在创建“x64\Release\sdyddword.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I..\CWordInclude /I..\CXMLInclude /Zi /nologo /W3 /WX- /O2 /Oi /Ot /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _CRT_NON_CONFORMING_SWPRINTFS /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"x64\Release\sdyddword.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc100.pdb" /Gd /TP /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I..\CWordInclude /I..\CXMLInclude /Zi /nologo /W3 /WX- /O2 /Oi /Ot /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _CRT_NON_CONFORMING_SWPRINTFS /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"x64\Release\sdyddword.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc100.pdb" /Gd /TP /errorReport:prompt obj_template.cpp sdd_file.cpp sdyddword.cpp utilities.cpp word_file.cpp xml_file.cpp
+         obj_template.cpp
+         sdd_file.cpp
+     1>sdd_file.cpp(325): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>sdd_file.cpp(350): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>sdd_file.cpp(374): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>sdd_file.cpp(375): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+     1>sdd_file.cpp(403): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>sdd_file.cpp(404): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+         sdyddword.cpp
+         utilities.cpp
+         word_file.cpp
+         xml_file.cpp
+     1>xml_file.cpp(234): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0409" /nologo /fo"x64\Release\sdyddword.res" sdyddword.rc 
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(990,5): warning MSB8012: TargetPath(E:\sdy_opengl_sdd_doc_2018\x64\Release\sdyddword.exe) 与 Linker 的 OutputFile 属性值(E:\sdy_opengl_sdd_doc_2018\distrib\bin\sdyddword.exe)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\sdy_opengl_sdd_doc_2018\distrib\bin\sdyddword.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"x64\Release\sdyddword.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\sdy_opengl_sdd_doc_2018\x64\Release\sdyddword.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\sdy_opengl_sdd_doc_2018\x64\Release\sdyddword.lib" /MACHINE:X64 x64\Release\sdyddword.res
+         x64\Release\obj_template.obj
+         x64\Release\sdd_file.obj
+         x64\Release\sdyddword.obj
+         x64\Release\stdafx.obj
+         x64\Release\utilities.obj
+         x64\Release\word_file.obj
+         x64\Release\xml_file.obj
+         正在生成代码
+         已完成代码的生成
+         sdyddword.vcxproj -> E:\sdy_opengl_sdd_doc_2018\x64\Release\sdyddword.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\sdy_opengl_sdd_doc_2018\distrib\bin\sdyddword.exe;#1" /manifest x64\Release\sdyddword.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“x64\Release\sdyddword.unsuccessfulbuild”。
+         正在对“x64\Release\sdyddword.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\sdy_opengl_sdd_doc_2018\sdyddword\sdyddword.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:13.40

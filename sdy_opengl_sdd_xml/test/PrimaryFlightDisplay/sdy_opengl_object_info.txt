@@ -1,0 +1,354 @@
+00001.jpeg|1-symbology_layer|layer|COMPONENT
+00002.jpeg|1-1-PFD|container|COMPONENT
+00003.jpeg|1-1-1-ADI|container|COMPONENT
+00004.jpeg|1-1-1-1-ADI_masked_parts|container|COMPONENT
+         |1-1-1-1-a-_MaskOutlinerADI_001|stencil|PRIMITIVE
+00006.jpeg|1-1-1-1-1-SkyEarthAndScales|container|COMPONENT
+00007.jpeg|1-1-1-1-1-1-SKY_EARTH|container|COMPONENT
+         |1-1-1-1-1-1-a-SkyRect|rectangle|PRIMITIVE
+         |1-1-1-1-1-1-b-EarthRect|rectangle|PRIMITIVE
+00010.jpeg|1-1-1-1-1-2-ScaleAndAlarms|container|COMPONENT
+00011.jpeg|1-1-1-1-1-2-1-PitchScale|container|COMPONENT
+00012.jpeg|1-1-1-1-1-2-1-1-SCALE_DAN_F00|container|COMPONENT
+00013.jpeg|1-1-1-1-1-2-1-1-1-begin_moving|container|COMPONENT
+00014.jpeg|1-1-1-1-1-2-1-1-1-1-PART_4|container|COMPONENT
+         |1-1-1-1-1-2-1-1-1-1-a-text|text|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-1-b-text|text|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-1-c-text|text|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-1-d-text|text|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-1-e-text|text|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-1-f-text|text|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-1-g-text|text|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-1-h-text|text|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-1-i-line|line|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-1-j-line|line|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-1-k-line|line|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-1-l-line|line|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-1-m-line|line|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-1-n-line|line|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-1-o-line|line|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-1-p-line|line|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-1-q-line|line|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-1-r-text|text|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-1-s-text|text|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-1-t-line|line|PRIMITIVE
+00035.jpeg|1-1-1-1-1-2-1-1-1-2-PART_1|container|COMPONENT
+         |1-1-1-1-1-2-1-1-1-2-a-text|text|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-2-b-text|text|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-2-c-text|text|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-2-d-text|text|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-2-e-text|text|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-2-f-text|text|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-2-g-text|text|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-2-h-text|text|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-2-i-text|text|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-2-j-text|text|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-2-k-line|line|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-2-l-line|line|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-2-m-line|line|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-2-n-line|line|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-2-o-line|line|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-2-p-line|line|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-2-q-line|line|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-2-r-line|line|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-2-s-line|line|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-2-t-line|line|PRIMITIVE
+00056.jpeg|1-1-1-1-1-2-1-1-1-3-PART_3|container|COMPONENT
+         |1-1-1-1-1-2-1-1-1-3-a-line|line|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-3-b-line|line|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-3-c-line|line|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-3-d-line|line|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-3-e-line|line|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-3-f-line|line|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-3-g-text|text|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-3-h-text|text|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-3-i-text|text|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-3-j-text|text|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-3-k-text|text|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-3-l-text|text|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-3-m-text|text|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-3-n-text|text|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-3-o-line|line|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-3-p-line|line|PRIMITIVE
+00073.jpeg|1-1-1-1-1-2-1-1-1-4-PART_2|container|COMPONENT
+         |1-1-1-1-1-2-1-1-1-4-a-line|line|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-4-b-line|line|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-4-c-line|line|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-4-d-line|line|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-4-e-line|line|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-4-f-line|line|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-4-g-text|text|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-4-h-text|text|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-4-i-text|text|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-4-j-text|text|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-4-k-text|text|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-4-l-text|text|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-4-m-text|text|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-4-n-text|text|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-4-o-line|line|PRIMITIVE
+         |1-1-1-1-1-2-1-1-1-4-p-line|line|PRIMITIVE
+00090.jpeg|1-1-1-1-1-2-1-1-1-5-HORIZON_LINE|container|COMPONENT
+         |1-1-1-1-1-2-1-1-1-5-a-line|line|PRIMITIVE
+00092.jpeg|1-1-1-1-1-2-2-HighWarning|container|COMPONENT
+00093.jpeg|1-1-1-1-1-2-2-1-HIGHWARNING_DAN|container|COMPONENT
+00094.jpeg|1-1-1-1-1-2-2-1-1-begin_moving|container|COMPONENT
+         |1-1-1-1-1-2-2-1-1-a-line|line|PRIMITIVE
+         |1-1-1-1-1-2-2-1-1-b-line|line|PRIMITIVE
+         |1-1-1-1-1-2-2-1-1-c-line|line|PRIMITIVE
+         |1-1-1-1-1-2-2-1-1-d-line|line|PRIMITIVE
+         |1-1-1-1-1-2-2-1-1-e-line|line|PRIMITIVE
+         |1-1-1-1-1-2-2-1-1-f-line|line|PRIMITIVE
+00101.jpeg|1-1-1-1-1-2-3-HighAlarm|container|COMPONENT
+00102.jpeg|1-1-1-1-1-2-3-1-HIGHALARM_DAN|container|COMPONENT
+00103.jpeg|1-1-1-1-1-2-3-1-1-begin_moving|container|COMPONENT
+         |1-1-1-1-1-2-3-1-1-a-line|line|PRIMITIVE
+         |1-1-1-1-1-2-3-1-1-b-line|line|PRIMITIVE
+         |1-1-1-1-1-2-3-1-1-c-line|line|PRIMITIVE
+         |1-1-1-1-1-2-3-1-1-d-line|line|PRIMITIVE
+         |1-1-1-1-1-2-3-1-1-e-line|line|PRIMITIVE
+         |1-1-1-1-1-2-3-1-1-f-line|line|PRIMITIVE
+         |1-1-1-1-1-2-3-1-1-g-line|line|PRIMITIVE
+         |1-1-1-1-1-2-3-1-1-h-line|line|PRIMITIVE
+         |1-1-1-1-1-2-3-1-1-i-line|line|PRIMITIVE
+         |1-1-1-1-1-2-3-1-1-j-line|line|PRIMITIVE
+00114.jpeg|1-1-1-1-1-2-4-LowWarning|container|COMPONENT
+00115.jpeg|1-1-1-1-1-2-4-1-LOWWARNING_DAN|container|COMPONENT
+00116.jpeg|1-1-1-1-1-2-4-1-1-begin_moving|container|COMPONENT
+         |1-1-1-1-1-2-4-1-1-a-line|line|PRIMITIVE
+         |1-1-1-1-1-2-4-1-1-b-line|line|PRIMITIVE
+         |1-1-1-1-1-2-4-1-1-c-line|line|PRIMITIVE
+         |1-1-1-1-1-2-4-1-1-d-line|line|PRIMITIVE
+         |1-1-1-1-1-2-4-1-1-e-line|line|PRIMITIVE
+         |1-1-1-1-1-2-4-1-1-f-line|line|PRIMITIVE
+00123.jpeg|1-1-1-1-1-2-5-LowAlarm|container|COMPONENT
+00124.jpeg|1-1-1-1-1-2-5-1-LOWALARM_DAN|container|COMPONENT
+00125.jpeg|1-1-1-1-1-2-5-1-1-begin_moving|container|COMPONENT
+         |1-1-1-1-1-2-5-1-1-a-line|line|PRIMITIVE
+         |1-1-1-1-1-2-5-1-1-b-line|line|PRIMITIVE
+         |1-1-1-1-1-2-5-1-1-c-line|line|PRIMITIVE
+         |1-1-1-1-1-2-5-1-1-d-line|line|PRIMITIVE
+         |1-1-1-1-1-2-5-1-1-e-line|line|PRIMITIVE
+         |1-1-1-1-1-2-5-1-1-f-line|line|PRIMITIVE
+         |1-1-1-1-1-2-5-1-1-g-line|line|PRIMITIVE
+         |1-1-1-1-1-2-5-1-1-h-line|line|PRIMITIVE
+         |1-1-1-1-1-2-5-1-1-i-line|line|PRIMITIVE
+         |1-1-1-1-1-2-5-1-1-j-line|line|PRIMITIVE
+00136.jpeg|1-1-1-1-1-3-BugReference|container|COMPONENT
+         |1-1-1-1-1-3-a-BugRef|shape|PRIMITIVE
+00138.jpeg|1-1-1-1-2-lunula|container|COMPONENT
+         |1-1-1-1-2-a-TOP_Lunula|rectangle|PRIMITIVE
+         |1-1-1-1-2-b-BOT_Lunula|rectangle|PRIMITIVE
+00141.jpeg|1-1-1-1-3-RollIndex|container|COMPONENT
+         |1-1-1-1-3-a-shape|shape|PRIMITIVE
+00143.jpeg|1-1-1-2-RollFix|container|COMPONENT
+         |1-1-1-2-a-shape|shape|PRIMITIVE
+00145.jpeg|1-1-1-2-1-RollGraduations|container|COMPONENT
+00146.jpeg|1-1-1-2-1-1-group|container|COMPONENT
+         |1-1-1-2-1-1-a-Ind-45|shape|PRIMITIVE
+00148.jpeg|1-1-1-2-1-2-group|container|COMPONENT
+         |1-1-1-2-1-2-a-Ind45|shape|PRIMITIVE
+00150.jpeg|1-1-1-2-1-3-group|container|COMPONENT
+         |1-1-1-2-1-3-a-Ind-30|line|PRIMITIVE
+00152.jpeg|1-1-1-2-1-4-group|container|COMPONENT
+         |1-1-1-2-1-4-a-Ind30|line|PRIMITIVE
+00154.jpeg|1-1-1-2-1-5-group|container|COMPONENT
+         |1-1-1-2-1-5-a-line|line|PRIMITIVE
+00156.jpeg|1-1-1-2-1-6-group|container|COMPONENT
+         |1-1-1-2-1-6-a-line|line|PRIMITIVE
+00158.jpeg|1-1-1-2-1-7-group|container|COMPONENT
+         |1-1-1-2-1-7-a-line|line|PRIMITIVE
+00160.jpeg|1-1-1-2-1-8-group|container|COMPONENT
+         |1-1-1-2-1-8-a-line|line|PRIMITIVE
+00162.jpeg|1-1-2-Altitude|container|COMPONENT
+         |1-1-2-a-_TOP_ALTI_001|clipPlane|PRIMITIVE
+         |1-1-2-b-_BOT_ALTI_001|clipPlane|PRIMITIVE
+00165.jpeg|1-1-2-1-ClippedBackground|container|COMPONENT
+         |1-1-2-1-a-_clip box_001|clipBox|PRIMITIVE
+         |1-1-2-1-b-rectangle|rectangle|PRIMITIVE
+00168.jpeg|1-1-2-2-RADALT_Group|container|COMPONENT
+         |1-1-2-2-a-_clip box_001|clipBox|PRIMITIVE
+00170.jpeg|1-1-2-2-1-RADALT_Analog|translationContainer|COMPONENT
+         |1-1-2-2-1-a-rectangle|rectangle|PRIMITIVE
+00172.jpeg|1-1-2-3-AltiScale|translationContainer|COMPONENT
+00173.jpeg|1-1-2-3-1-lines|container|COMPONENT
+         |1-1-2-3-1-a-line|line|PRIMITIVE
+         |1-1-2-3-1-b-line|line|PRIMITIVE
+         |1-1-2-3-1-c-line|line|PRIMITIVE
+         |1-1-2-3-1-d-line|line|PRIMITIVE
+         |1-1-2-3-1-e-line|line|PRIMITIVE
+         |1-1-2-3-1-f-line|line|PRIMITIVE
+         |1-1-2-3-1-g-line|line|PRIMITIVE
+         |1-1-2-3-1-h-line|line|PRIMITIVE
+         |1-1-2-3-1-i-line|line|PRIMITIVE
+         |1-1-2-3-1-j-line|line|PRIMITIVE
+         |1-1-2-3-1-k-line|line|PRIMITIVE
+         |1-1-2-3-1-l-line|line|PRIMITIVE
+         |1-1-2-3-1-m-line|line|PRIMITIVE
+         |1-1-2-3-1-n-line|line|PRIMITIVE
+         |1-1-2-3-1-o-line|line|PRIMITIVE
+         |1-1-2-3-1-p-line|line|PRIMITIVE
+         |1-1-2-3-1-q-line|line|PRIMITIVE
+         |1-1-2-3-1-r-line|line|PRIMITIVE
+         |1-1-2-3-1-s-line|line|PRIMITIVE
+         |1-1-2-3-1-t-line|line|PRIMITIVE
+         |1-1-2-3-1-u-line|line|PRIMITIVE
+         |1-1-2-3-1-v-line|line|PRIMITIVE
+         |1-1-2-3-1-w-line|line|PRIMITIVE
+         |1-1-2-3-1-x-line|line|PRIMITIVE
+         |1-1-2-3-1-y-line|line|PRIMITIVE
+         |1-1-2-3-1-z-line|line|PRIMITIVE
+         |1-1-2-3-1-aa-line|line|PRIMITIVE
+         |1-1-2-3-1-ab-line|line|PRIMITIVE
+         |1-1-2-3-1-ac-line|line|PRIMITIVE
+         |1-1-2-3-1-ad-line|line|PRIMITIVE
+         |1-1-2-3-1-ae-line|line|PRIMITIVE
+         |1-1-2-3-1-af-line|line|PRIMITIVE
+         |1-1-2-3-1-ag-line|line|PRIMITIVE
+         |1-1-2-3-1-ah-line|line|PRIMITIVE
+         |1-1-2-3-1-ai-line|line|PRIMITIVE
+         |1-1-2-3-1-aj-line|line|PRIMITIVE
+         |1-1-2-3-1-ak-line|line|PRIMITIVE
+         |1-1-2-3-1-al-line|line|PRIMITIVE
+         |1-1-2-3-1-am-line|line|PRIMITIVE
+         |1-1-2-3-1-an-line|line|PRIMITIVE
+         |1-1-2-3-1-ao-line|line|PRIMITIVE
+00215.jpeg|1-1-2-3-2-texts|container|COMPONENT
+         |1-1-2-3-2-a-text|text|PRIMITIVE
+         |1-1-2-3-2-b-text|text|PRIMITIVE
+         |1-1-2-3-2-c-text|text|PRIMITIVE
+         |1-1-2-3-2-d-text|text|PRIMITIVE
+         |1-1-2-3-2-e-text|text|PRIMITIVE
+         |1-1-2-3-2-f-text|text|PRIMITIVE
+         |1-1-2-3-2-g-text|text|PRIMITIVE
+         |1-1-2-3-2-h-text|text|PRIMITIVE
+         |1-1-2-3-2-i-text|text|PRIMITIVE
+00225.jpeg|1-1-2-4-Counter|container|COMPONENT
+00226.jpeg|1-1-2-4-1-CounterBox|container|COMPONENT
+         |1-1-2-4-1-a-CounterBackground|shape|PRIMITIVE
+00228.jpeg|1-1-2-4-2-CounterHundreds|container|COMPONENT
+         |1-1-2-4-2-a-clip box|clipBox|PRIMITIVE
+00230.jpeg|1-1-2-4-2-b-AltiCount1000|biFont|BI_PRIMITIVE
+00231.jpeg|1-1-2-4-b-CounterUnits|biFont|BI_PRIMITIVE
+00232.jpeg|1-1-2-5-Outline|container|COMPONENT
+         |1-1-2-5-a-line|line|PRIMITIVE
+         |1-1-2-5-b-line|line|PRIMITIVE
+         |1-1-2-5-c-line|line|PRIMITIVE
+         |1-1-2-b-AltitudeSelectedBug|shape|PRIMITIVE
+00237.jpeg|1-1-3-Airspeed|container|COMPONENT
+         |1-1-3-a-_TOP_IAS_001|clipPlane|PRIMITIVE
+         |1-1-3-b-_BOT_IAS_001|clipPlane|PRIMITIVE
+00240.jpeg|1-1-3-1-ClippedBackground|container|COMPONENT
+         |1-1-3-1-a-_clip box_001|clipBox|PRIMITIVE
+         |1-1-3-1-b-background|rectangle|PRIMITIVE
+00243.jpeg|1-1-3-2-Outline|container|COMPONENT
+         |1-1-3-2-a-line|line|PRIMITIVE
+         |1-1-3-2-b-line|line|PRIMITIVE
+         |1-1-3-2-c-line|line|PRIMITIVE
+00247.jpeg|1-1-3-3-AirspeedScale|translationContainer|COMPONENT
+00248.jpeg|1-1-3-3-1-lines1|container|COMPONENT
+         |1-1-3-3-1-a-line|line|PRIMITIVE
+         |1-1-3-3-1-b-line|line|PRIMITIVE
+         |1-1-3-3-1-c-line|line|PRIMITIVE
+         |1-1-3-3-1-d-line|line|PRIMITIVE
+         |1-1-3-3-1-e-line|line|PRIMITIVE
+         |1-1-3-3-1-f-line|line|PRIMITIVE
+         |1-1-3-3-1-g-line|line|PRIMITIVE
+         |1-1-3-3-1-h-line|line|PRIMITIVE
+         |1-1-3-3-1-i-line|line|PRIMITIVE
+         |1-1-3-3-1-j-line|line|PRIMITIVE
+         |1-1-3-3-1-k-line|line|PRIMITIVE
+         |1-1-3-3-1-l-line|line|PRIMITIVE
+         |1-1-3-3-1-m-line|line|PRIMITIVE
+         |1-1-3-3-1-n-line|line|PRIMITIVE
+         |1-1-3-3-1-o-line|line|PRIMITIVE
+         |1-1-3-3-1-p-line|line|PRIMITIVE
+         |1-1-3-3-1-q-line|line|PRIMITIVE
+         |1-1-3-3-1-r-line|line|PRIMITIVE
+         |1-1-3-3-1-s-line|line|PRIMITIVE
+         |1-1-3-3-1-t-line|line|PRIMITIVE
+         |1-1-3-3-1-u-line|line|PRIMITIVE
+         |1-1-3-3-1-v-line|line|PRIMITIVE
+         |1-1-3-3-1-w-line|line|PRIMITIVE
+         |1-1-3-3-1-x-line|line|PRIMITIVE
+         |1-1-3-3-1-y-line|line|PRIMITIVE
+         |1-1-3-3-1-z-line|line|PRIMITIVE
+00275.jpeg|1-1-3-3-2-lines2|container|COMPONENT
+         |1-1-3-3-2-a-line|line|PRIMITIVE
+         |1-1-3-3-2-b-line|line|PRIMITIVE
+         |1-1-3-3-2-c-line|line|PRIMITIVE
+         |1-1-3-3-2-d-line|line|PRIMITIVE
+         |1-1-3-3-2-e-line|line|PRIMITIVE
+         |1-1-3-3-2-f-line|line|PRIMITIVE
+         |1-1-3-3-2-g-line|line|PRIMITIVE
+         |1-1-3-3-2-h-line|line|PRIMITIVE
+         |1-1-3-3-2-i-line|line|PRIMITIVE
+         |1-1-3-3-2-j-line|line|PRIMITIVE
+         |1-1-3-3-2-k-line|line|PRIMITIVE
+         |1-1-3-3-2-l-line|line|PRIMITIVE
+         |1-1-3-3-2-m-line|line|PRIMITIVE
+         |1-1-3-3-2-n-line|line|PRIMITIVE
+         |1-1-3-3-2-o-line|line|PRIMITIVE
+         |1-1-3-3-2-p-line|line|PRIMITIVE
+         |1-1-3-3-2-q-line|line|PRIMITIVE
+         |1-1-3-3-2-r-line|line|PRIMITIVE
+         |1-1-3-3-2-s-line|line|PRIMITIVE
+         |1-1-3-3-2-t-line|line|PRIMITIVE
+         |1-1-3-3-2-u-line|line|PRIMITIVE
+         |1-1-3-3-2-v-line|line|PRIMITIVE
+         |1-1-3-3-2-w-line|line|PRIMITIVE
+         |1-1-3-3-2-x-line|line|PRIMITIVE
+         |1-1-3-3-2-y-line|line|PRIMITIVE
+         |1-1-3-3-2-z-line|line|PRIMITIVE
+00302.jpeg|1-1-3-3-3-numbers1|container|COMPONENT
+         |1-1-3-3-3-a-text|text|PRIMITIVE
+         |1-1-3-3-3-b-text|text|PRIMITIVE
+         |1-1-3-3-3-c-text|text|PRIMITIVE
+         |1-1-3-3-3-d-text|text|PRIMITIVE
+         |1-1-3-3-3-e-text|text|PRIMITIVE
+         |1-1-3-3-3-f-text|text|PRIMITIVE
+         |1-1-3-3-3-g-text|text|PRIMITIVE
+         |1-1-3-3-3-h-text|text|PRIMITIVE
+         |1-1-3-3-3-i-text|text|PRIMITIVE
+         |1-1-3-3-3-j-text|text|PRIMITIVE
+         |1-1-3-3-3-k-text|text|PRIMITIVE
+         |1-1-3-3-3-l-text|text|PRIMITIVE
+         |1-1-3-3-3-m-text|text|PRIMITIVE
+00316.jpeg|1-1-3-3-4-numbers2|container|COMPONENT
+         |1-1-3-3-4-a-text|text|PRIMITIVE
+         |1-1-3-3-4-b-text|text|PRIMITIVE
+         |1-1-3-3-4-c-text|text|PRIMITIVE
+         |1-1-3-3-4-d-text|text|PRIMITIVE
+         |1-1-3-3-4-e-text|text|PRIMITIVE
+         |1-1-3-3-4-f-text|text|PRIMITIVE
+         |1-1-3-3-4-g-text|text|PRIMITIVE
+         |1-1-3-3-4-h-text|text|PRIMITIVE
+         |1-1-3-3-4-i-text|text|PRIMITIVE
+         |1-1-3-3-4-j-text|text|PRIMITIVE
+         |1-1-3-3-4-k-text|text|PRIMITIVE
+         |1-1-3-3-4-l-text|text|PRIMITIVE
+         |1-1-3-3-4-m-text|text|PRIMITIVE
+00330.jpeg|1-1-3-4-CounterBox|container|COMPONENT
+         |1-1-3-4-a-CounterBackground|shape|PRIMITIVE
+00332.jpeg|1-1-3-5-ReferenceLine|container|COMPONENT
+00333.jpeg|1-1-3-5-1-IAS_REF_LINE|container|COMPONENT
+         |1-1-3-5-1-a-line|line|PRIMITIVE
+00335.jpeg|1-1-3-6-AirspeedSelectedBug|translationContainer|COMPONENT
+00336.jpeg|1-1-3-6-1-begin_moving|container|COMPONENT
+00337.jpeg|1-1-3-6-1-1-FULL_SELIASBUG|container|COMPONENT
+         |1-1-3-6-1-1-a-shape|shape|PRIMITIVE
+         |1-1-3-6-1-1-b-shape|shape|PRIMITIVE
+00340.jpeg|1-1-3-7-AirspeedTrend|condContainer|COMPONENT
+00341.jpeg|1-1-3-7-1-UpArrow|container|COMPONENT
+         |1-1-3-7-1-a-_clip plane_001|clipPlane|PRIMITIVE
+00343.jpeg|1-1-3-7-1-1-translate group|translationContainer|COMPONENT
+         |1-1-3-7-1-1-a-line|line|PRIMITIVE
+         |1-1-3-7-1-1-b-line|line|PRIMITIVE
+         |1-1-3-7-1-1-c-line|line|PRIMITIVE
+00347.jpeg|1-1-3-7-2-DownArrow|container|COMPONENT
+         |1-1-3-7-2-a-_clip plane_001|clipPlane|PRIMITIVE
+00349.jpeg|1-1-3-7-2-1-translate group|translationContainer|COMPONENT
+         |1-1-3-7-2-1-a-line|line|PRIMITIVE
+         |1-1-3-7-2-1-b-line|line|PRIMITIVE
+         |1-1-3-7-2-1-c-line|line|PRIMITIVE
+00353.jpeg|1-1-3-b-RollCount|biFont|BI_PRIMITIVE
+image_count=73

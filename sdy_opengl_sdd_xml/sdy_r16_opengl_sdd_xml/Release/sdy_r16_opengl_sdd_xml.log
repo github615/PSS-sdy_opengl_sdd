@@ -1,0 +1,51 @@
+﻿生成启动时间为 2018/12/27 8:36:08。
+     1>项目“E:\sdy_opengl_sdd_xml_2018\sdy_r16_opengl_sdd_xml\sdy_r16_opengl_sdd_xml.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\sdy_r16_opengl_sdd_xml.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IE:\sdy_opengl_sdd_xml_2018\src /IE:\sdy_opengl_sdd_xml_2018\src\parsifal_1.1.0 /I"E:\sdy_opengl_sdd_xml_2018\src\libxml2-2.7.8.win32\include" /I"E:\sdy_opengl_sdd_xml_2018\src\iconv-1.9.2.win32\include" /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _CRT_SECURE_NO_DEPRECATE /D HAS_STRICMP /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt ..\src\gen_sdy_object_dd.c
+         gen_sdy_object_dd.c
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(990,5): warning MSB8012: TargetPath(E:\sdy_opengl_sdd_xml_2018\Release\sdy_r16_opengl_sdd_xml.exe) 与 Linker 的 OutputFile 属性值(E:\sdy_opengl_sdd_xml_2018\distrib\bin\sdy_r16_opengl_sdd_xml.exe)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\sdy_opengl_sdd_xml_2018\distrib\bin\sdy_r16_opengl_sdd_xml.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"E:\sdy_opengl_sdd_xml_2018\src\libxml2-2.7.8.win32\lib" /LIBPATH:"E:\sdy_opengl_sdd_xml_2018\src\iconv-1.9.2.win32\lib" libxml2.lib iconv.lib Shlwapi.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\sdy_r16_opengl_sdd_xml.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\sdy_opengl_sdd_xml_2018\Release\sdy_r16_opengl_sdd_xml.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\sdy_opengl_sdd_xml_2018\Release\sdy_r16_opengl_sdd_xml.lib" /MACHINE:X86 Release\compose_standalone.obj
+         Release\free_memory.obj
+         Release\gen_sdy_config_dd.obj
+         Release\main.obj
+         Release\convert_xml_code.obj
+         Release\gen_sdy_object_dd.obj
+         Release\gen_sdy_source_dd.obj
+         Release\parse_color_table.obj
+         Release\parse_font_table.obj
+         Release\parse_line_stipple_table.obj
+         Release\parse_line_width_table.obj
+         Release\parse_object_property.obj
+         Release\parse_sdy_project.obj
+         Release\parse_sdy_source.obj
+         Release\parse_texture_table.obj
+         Release\parse_trace_file.obj
+         Release\bistream.obj
+         Release\dtdvalid.obj
+         Release\encoding.obj
+         Release\parsifal.obj
+         Release\xmlhash.obj
+         Release\xmlpool.obj
+         Release\xmlsbuf.obj
+         Release\xmlvect.obj
+         Release\process_file_and_dir.obj
+         Release\process_sdy_code.obj
+         Release\scade_display_dir.obj
+         Release\process_sdy_source_info.obj
+         Release\utilities.obj
+         正在生成代码
+         已完成代码的生成
+         sdy_r16_opengl_sdd_xml.vcxproj -> E:\sdy_opengl_sdd_xml_2018\Release\sdy_r16_opengl_sdd_xml.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\sdy_opengl_sdd_xml_2018\distrib\bin\sdy_r16_opengl_sdd_xml.exe;#1" /manifest Release\sdy_r16_opengl_sdd_xml.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\sdy_r16_opengl_sdd_xml.unsuccessfulbuild”。
+         正在对“Release\sdy_r16_opengl_sdd_xml.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\sdy_opengl_sdd_xml_2018\sdy_r16_opengl_sdd_xml\sdy_r16_opengl_sdd_xml.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.59

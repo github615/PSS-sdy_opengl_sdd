@@ -1,0 +1,145 @@
+﻿生成启动时间为 2014/1/2 17:10:01。
+     1>项目“E:\aside_sdy_opengl\aside_sdy_opengl\aside_sdy_opengl.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“E:\aside_sdy_opengl\x64\Debug\”。
+       InitializeBuildStatus:
+         正在创建“x64\Debug\aside_sdy_opengl.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /IE:\aside_sdy_opengl\src /IE:\aside_sdy_opengl\src\parsifal_1.1.0 /I"E:\aside_sdy_opengl\src\libxml2-2.7.8.win32\include" /I"E:\aside_sdy_opengl\src\iconv-1.9.2.win32\include" /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _CRT_SECURE_NO_DEPRECATE /D HAS_STRICMP /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /Gd /TC /errorReport:prompt ..\src\free_memory.c ..\src\gen_sdy_config_dd.c ..\src\main.c ..\src\convert_xml_code.c ..\src\gen_sdy_object_dd.c ..\src\gen_sdy_source_dd.c ..\src\parse_color_table.c ..\src\parse_font_table.c ..\src\parse_line_stipple_table.c ..\src\parse_line_width_table.c ..\src\parse_object_property.c ..\src\parse_sdy_source.c ..\src\parse_texture_table.c ..\src\parsifal_1.1.0\bistream.c ..\src\parsifal_1.1.0\dtdvalid.c ..\src\parsifal_1.1.0\encoding.c ..\src\parsifal_1.1.0\parsifal.c ..\src\parsifal_1.1.0\xmlhash.c ..\src\parsifal_1.1.0\xmlpool.c ..\src\parsifal_1.1.0\xmlsbuf.c ..\src\parsifal_1.1.0\xmlvect.c ..\src\process_file_and_dir.c ..\src\process_sdy_code.c ..\src\scade_display_dir.c ..\src\utilities.c
+         utilities.c
+         scade_display_dir.c
+         process_sdy_code.c
+         process_file_and_dir.c
+     1>..\src\process_file_and_dir.c(44): warning C4101: “l”: 未引用的局部变量
+         xmlvect.c
+         xmlsbuf.c
+         xmlpool.c
+         xmlhash.c
+     1>..\src\parsifal_1.1.0\xmlhash.c(172): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\parsifal_1.1.0\xmlhash.c(208): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+         parsifal.c
+     1>..\src\parsifal_1.1.0\parsifal.c(377): warning C4101: “e”: 未引用的局部变量
+     1>..\src\parsifal_1.1.0\parsifal.c(1586): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(246) : 参见“stricmp”的声明
+     1>..\src\parsifal_1.1.0\parsifal.c(1652): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(246) : 参见“stricmp”的声明
+     1>..\src\parsifal_1.1.0\parsifal.c(1654): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(246) : 参见“stricmp”的声明
+     1>..\src\parsifal_1.1.0\parsifal.c(1656): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(246) : 参见“stricmp”的声明
+     1>..\src\parsifal_1.1.0\parsifal.c(1680): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(246) : 参见“stricmp”的声明
+     1>..\src\parsifal_1.1.0\parsifal.c(1884): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>..\src\parsifal_1.1.0\parsifal.c(2049): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\parsifal_1.1.0\parsifal.c(2094): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+         encoding.c
+         dtdvalid.c
+         bistream.c
+     1>..\src\parsifal_1.1.0\bistream.c(242): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\parsifal_1.1.0\bistream.c(248): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\parsifal_1.1.0\bistream.c(256): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\parsifal_1.1.0\bistream.c(265): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\parsifal_1.1.0\bistream.c(270): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\parsifal_1.1.0\bistream.c(284): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+         parse_texture_table.c
+         parse_sdy_source.c
+     1>..\src\parse_sdy_source.c(1273): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+         parse_object_property.c
+         parse_line_width_table.c
+         parse_line_stipple_table.c
+         parse_font_table.c
+         parse_color_table.c
+         gen_sdy_source_dd.c
+         Generating Code...
+         Compiling...
+         gen_sdy_object_dd.c
+         convert_xml_code.c
+     1>..\src\convert_xml_code.c(46): warning C4133: “函数”: 从“unsigned int *”到“size_t *”的类型不兼容
+     1>..\src\convert_xml_code.c(46): warning C4133: “函数”: 从“unsigned int *”到“size_t *”的类型不兼容
+     1>..\src\convert_xml_code.c(64): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\convert_xml_code.c(70): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\convert_xml_code.c(87): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\convert_xml_code.c(93): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+         main.c
+         gen_sdy_config_dd.c
+         free_memory.c
+         Generating Code...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"x64\Debug\aside_sdy_opengl.exe.embed.manifest.res" x64\Debug\aside_sdy_opengl_manifest.rc 
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(990,5): warning MSB8012: TargetPath(E:\aside_sdy_opengl\x64\Debug\aside_sdy_opengl.exe) 与 Linker 的 OutputFile 属性值(E:\aside_sdy_opengl\distrib\bin\aside_sdy_opengl.exe)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\aside_sdy_opengl\distrib\bin\aside_sdy_opengl.exe" /INCREMENTAL /NOLOGO /LIBPATH:"E:\aside_sdy_opengl\src\libxml2-2.7.8.win32\lib" /LIBPATH:"E:\aside_sdy_opengl\src\iconv-1.9.2.win32\lib" libxml2.lib iconv.lib Shlwapi.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Debug\aside_sdy_opengl.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\aside_sdy_opengl\x64\Debug\aside_sdy_opengl.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\aside_sdy_opengl\x64\Debug\aside_sdy_opengl.lib" /MACHINE:X64 x64\Debug\aside_sdy_opengl.exe.embed.manifest.res
+         x64\Debug\free_memory.obj
+         x64\Debug\gen_sdy_config_dd.obj
+         x64\Debug\main.obj
+         x64\Debug\convert_xml_code.obj
+         x64\Debug\gen_sdy_object_dd.obj
+         x64\Debug\gen_sdy_source_dd.obj
+         x64\Debug\parse_color_table.obj
+         x64\Debug\parse_font_table.obj
+         x64\Debug\parse_line_stipple_table.obj
+         x64\Debug\parse_line_width_table.obj
+         x64\Debug\parse_object_property.obj
+         x64\Debug\parse_sdy_source.obj
+         x64\Debug\parse_texture_table.obj
+         x64\Debug\bistream.obj
+         x64\Debug\dtdvalid.obj
+         x64\Debug\encoding.obj
+         x64\Debug\parsifal.obj
+         x64\Debug\xmlhash.obj
+         x64\Debug\xmlpool.obj
+         x64\Debug\xmlsbuf.obj
+         x64\Debug\xmlvect.obj
+         x64\Debug\process_file_and_dir.obj
+         x64\Debug\process_sdy_code.obj
+         x64\Debug\scade_display_dir.obj
+         x64\Debug\utilities.obj
+     1>convert_xml_code.obj : error LNK2019: 无法解析的外部符号 libiconv_close，该符号在函数 code_convert 中被引用
+     1>convert_xml_code.obj : error LNK2019: 无法解析的外部符号 libiconv，该符号在函数 code_convert 中被引用
+     1>convert_xml_code.obj : error LNK2019: 无法解析的外部符号 libiconv_open，该符号在函数 code_convert 中被引用
+     1>gen_sdy_source_dd.obj : error LNK2019: 无法解析的外部符号 xmlNewTextChild，该符号在函数 gen_object_data_element 中被引用
+     1>gen_sdy_source_dd.obj : error LNK2019: 无法解析的外部符号 xmlNewChild，该符号在函数 gen_object_data_element 中被引用
+     1>gen_sdy_source_dd.obj : error LNK2019: 无法解析的外部符号 xmlMemoryDump，该符号在函数 gen_dd_xml 中被引用
+     1>gen_sdy_source_dd.obj : error LNK2019: 无法解析的外部符号 xmlCleanupParser，该符号在函数 gen_dd_xml 中被引用
+     1>parse_line_width_table.obj : error LNK2001: 无法解析的外部符号 xmlFreeDoc
+     1>parse_texture_table.obj : error LNK2001: 无法解析的外部符号 xmlFreeDoc
+     1>gen_sdy_source_dd.obj : error LNK2019: 无法解析的外部符号 xmlFreeDoc，该符号在函数 gen_dd_xml 中被引用
+     1>parse_color_table.obj : error LNK2001: 无法解析的外部符号 xmlFreeDoc
+     1>parse_font_table.obj : error LNK2001: 无法解析的外部符号 xmlFreeDoc
+     1>parse_line_stipple_table.obj : error LNK2001: 无法解析的外部符号 xmlFreeDoc
+     1>gen_sdy_source_dd.obj : error LNK2019: 无法解析的外部符号 xmlSaveFormatFileEnc，该符号在函数 gen_dd_xml 中被引用
+     1>gen_sdy_source_dd.obj : error LNK2019: 无法解析的外部符号 xmlNewProp，该符号在函数 gen_dd_xml 中被引用
+     1>gen_sdy_source_dd.obj : error LNK2019: 无法解析的外部符号 xmlDocSetRootElement，该符号在函数 gen_dd_xml 中被引用
+     1>gen_sdy_source_dd.obj : error LNK2019: 无法解析的外部符号 xmlNewNode，该符号在函数 gen_dd_xml 中被引用
+     1>gen_sdy_source_dd.obj : error LNK2019: 无法解析的外部符号 xmlNewDoc，该符号在函数 gen_dd_xml 中被引用
+     1>parse_texture_table.obj : error LNK2001: 无法解析的外部符号 __imp_xmlFree
+     1>parse_color_table.obj : error LNK2001: 无法解析的外部符号 __imp_xmlFree
+     1>parse_font_table.obj : error LNK2019: 无法解析的外部符号 __imp_xmlFree，该符号在函数 parse_font_table 中被引用
+     1>parse_line_stipple_table.obj : error LNK2001: 无法解析的外部符号 __imp_xmlFree
+     1>parse_line_width_table.obj : error LNK2001: 无法解析的外部符号 __imp_xmlFree
+     1>parse_texture_table.obj : error LNK2001: 无法解析的外部符号 xmlGetProp
+     1>parse_color_table.obj : error LNK2019: 无法解析的外部符号 xmlGetProp，该符号在函数 parse_color_table 中被引用
+     1>parse_font_table.obj : error LNK2001: 无法解析的外部符号 xmlGetProp
+     1>parse_line_stipple_table.obj : error LNK2001: 无法解析的外部符号 xmlGetProp
+     1>parse_line_width_table.obj : error LNK2001: 无法解析的外部符号 xmlGetProp
+     1>parse_texture_table.obj : error LNK2019: 无法解析的外部符号 xmlStrcmp，该符号在函数 parse_texture_table 中被引用
+     1>parse_color_table.obj : error LNK2001: 无法解析的外部符号 xmlStrcmp
+     1>parse_font_table.obj : error LNK2001: 无法解析的外部符号 xmlStrcmp
+     1>parse_line_stipple_table.obj : error LNK2001: 无法解析的外部符号 xmlStrcmp
+     1>parse_line_width_table.obj : error LNK2001: 无法解析的外部符号 xmlStrcmp
+     1>parse_texture_table.obj : error LNK2001: 无法解析的外部符号 xmlDocGetRootElement
+     1>parse_color_table.obj : error LNK2019: 无法解析的外部符号 xmlDocGetRootElement，该符号在函数 parse_color_table 中被引用
+     1>parse_font_table.obj : error LNK2001: 无法解析的外部符号 xmlDocGetRootElement
+     1>parse_line_stipple_table.obj : error LNK2001: 无法解析的外部符号 xmlDocGetRootElement
+     1>parse_line_width_table.obj : error LNK2001: 无法解析的外部符号 xmlDocGetRootElement
+     1>parse_texture_table.obj : error LNK2001: 无法解析的外部符号 xmlReadFile
+     1>parse_color_table.obj : error LNK2019: 无法解析的外部符号 xmlReadFile，该符号在函数 parse_color_table 中被引用
+     1>parse_font_table.obj : error LNK2001: 无法解析的外部符号 xmlReadFile
+     1>parse_line_stipple_table.obj : error LNK2001: 无法解析的外部符号 xmlReadFile
+     1>parse_line_width_table.obj : error LNK2001: 无法解析的外部符号 xmlReadFile
+     1>E:\aside_sdy_opengl\distrib\bin\aside_sdy_opengl.exe : fatal error LNK1120: 18 个无法解析的外部命令
+     1>已完成生成项目“E:\aside_sdy_opengl\aside_sdy_opengl\aside_sdy_opengl.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:04.19

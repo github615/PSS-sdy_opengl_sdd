@@ -1,0 +1,7 @@
+sdy_r16_opengl_sdd_xml是Windows下的控制台应用程序，按以下命令格式运行：
+<安装目录绝对路径>\bin\sdy_r16_opengl_sdd_xml.exe <输入目录名> <etp文件名> <输出目录名> [<语言选择>]
+输入目录名是指存放用SCADE Display开发的模型文件的目录名称。
+etp文件名是指用SCADE Display开发的工程文件。
+输出目录名是指存放sdy_r16_opengl_sdd_xml输出的目录名称。
+以上3个参数可用双引号括起来，以允许名称中有空格。
+语言选择是选择设计说明文件中的语言。此参数不指定时默认为英文。选中文则输入“language=Chinese”。

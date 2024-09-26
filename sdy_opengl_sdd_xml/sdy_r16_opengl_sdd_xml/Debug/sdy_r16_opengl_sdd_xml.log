@@ -1,0 +1,48 @@
+﻿生成启动时间为 2018/12/25 11:11:50。
+     1>项目“E:\sdy_opengl_sdd_xml_2018\sdy_r16_opengl_sdd_xml\sdy_r16_opengl_sdd_xml.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\sdy_r16_opengl_sdd_xml.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IE:\sdy_opengl_sdd_xml_2018\src /IE:\sdy_opengl_sdd_xml_2018\src\parsifal_1.1.0 /I"E:\sdy_opengl_sdd_xml_2018\src\libxml2-2.7.8.win32\include" /I"E:\sdy_opengl_sdd_xml_2018\src\iconv-1.9.2.win32\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _CRT_SECURE_NO_DEPRECATE /D HAS_STRICMP /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt ..\src\gen_sdy_object_dd.c
+         gen_sdy_object_dd.c
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\sdy_opengl_sdd_xml_2018\Debug\\sdy_r16_opengl_sdd_xml.exe" /INCREMENTAL /NOLOGO /LIBPATH:"E:\sdy_opengl_sdd_xml_2018\src\libxml2-2.7.8.win32\lib" /LIBPATH:"E:\sdy_opengl_sdd_xml_2018\src\iconv-1.9.2.win32\lib" libxml2.lib iconv.lib Shlwapi.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\sdy_r16_opengl_sdd_xml.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\sdy_opengl_sdd_xml_2018\Debug\sdy_r16_opengl_sdd_xml.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\sdy_opengl_sdd_xml_2018\Debug\sdy_r16_opengl_sdd_xml.lib" /MACHINE:X86 Debug\compose_standalone.obj
+         Debug\free_memory.obj
+         Debug\gen_sdy_config_dd.obj
+         Debug\main.obj
+         Debug\convert_xml_code.obj
+         Debug\gen_sdy_object_dd.obj
+         Debug\gen_sdy_source_dd.obj
+         Debug\parse_color_table.obj
+         Debug\parse_font_table.obj
+         Debug\parse_line_stipple_table.obj
+         Debug\parse_line_width_table.obj
+         Debug\parse_object_property.obj
+         Debug\parse_sdy_project.obj
+         Debug\parse_sdy_source.obj
+         Debug\parse_texture_table.obj
+         Debug\parse_trace_file.obj
+         Debug\bistream.obj
+         Debug\dtdvalid.obj
+         Debug\encoding.obj
+         Debug\parsifal.obj
+         Debug\xmlhash.obj
+         Debug\xmlpool.obj
+         Debug\xmlsbuf.obj
+         Debug\xmlvect.obj
+         Debug\process_file_and_dir.obj
+         Debug\process_sdy_code.obj
+         Debug\scade_display_dir.obj
+         Debug\process_sdy_source_info.obj
+         Debug\utilities.obj
+         sdy_r16_opengl_sdd_xml.vcxproj -> E:\sdy_opengl_sdd_xml_2018\Debug\sdy_r16_opengl_sdd_xml.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"E:\sdy_opengl_sdd_xml_2018\Debug\sdy_r16_opengl_sdd_xml.exe.manifest" /manifest Debug\sdy_r16_opengl_sdd_xml.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\sdy_r16_opengl_sdd_xml.unsuccessfulbuild”。
+         正在对“Debug\sdy_r16_opengl_sdd_xml.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\sdy_opengl_sdd_xml_2018\sdy_r16_opengl_sdd_xml\sdy_r16_opengl_sdd_xml.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.50

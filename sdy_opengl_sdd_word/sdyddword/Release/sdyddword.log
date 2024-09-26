@@ -1,0 +1,33 @@
+﻿生成启动时间为 2018/12/27 8:56:44。
+     1>项目“E:\sdy_opengl_sdd_doc_2018\sdyddword\sdyddword.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\sdyddword.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\CWordInclude /I..\CXMLInclude /Zi /nologo /W3 /WX- /O2 /Oi /Ot /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _CRT_NON_CONFORMING_SWPRINTFS /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\sdyddword.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt word_file.cpp
+         word_file.cpp
+       ResourceCompile:
+         所有输出均为最新。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(990,5): warning MSB8012: TargetPath(E:\sdy_opengl_sdd_doc_2018\Release\sdyddword.exe) 与 Linker 的 OutputFile 属性值(E:\sdy_opengl_sdd_doc_2018\distrib\bin\sdyddword.exe)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\sdy_opengl_sdd_doc_2018\distrib\bin\sdyddword.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"Release\sdyddword.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"E:\sdy_opengl_sdd_doc_2018\Release\sdyddword.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\sdy_opengl_sdd_doc_2018\Release\sdyddword.lib" /MACHINE:X86 Release\sdyddword.res
+         Release\obj_template.obj
+         Release\sdd_file.obj
+         Release\sdyddword.obj
+         Release\stdafx.obj
+         Release\utilities.obj
+         Release\word_file.obj
+         Release\xml_file.obj
+         正在生成代码
+         已完成代码的生成
+         sdyddword.vcxproj -> E:\sdy_opengl_sdd_doc_2018\Release\sdyddword.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\sdy_opengl_sdd_doc_2018\distrib\bin\sdyddword.exe;#1" /manifest Release\sdyddword.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Release\sdyddword.unsuccessfulbuild”。
+         正在对“Release\sdyddword.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\sdy_opengl_sdd_doc_2018\sdyddword\sdyddword.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.93
